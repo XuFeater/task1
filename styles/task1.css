@@ -1,0 +1,11 @@
+body{
+	background-color: gray;
+}
+.box{
+	width:30%;
+	padding-bottom: 30%;
+	background-color:orange;
+	margin:5px;
+	border-radius:10px;
+	float:left;
+}
