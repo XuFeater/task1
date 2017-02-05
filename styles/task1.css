@@ -1,5 +1,10 @@
-body{
-	background-color: gray;
+body {
+    background: #363636;
+}
+.container{
+    max-width:800px;
+	background: black;
+	margin:0 auto;
 }
 .box{
 	width:30%;
